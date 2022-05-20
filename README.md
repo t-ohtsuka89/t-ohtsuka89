@@ -1,7 +1,12 @@
-### Hi there 👋
+## プロフィール
+
+- 名前：大塚琢生（Ohtsuka Takumi）
+- 所属：愛媛大学大学院 二宮研
+- 研究分野：自然言語処理
+- 趣味：ソフトウェア開発/ゲーム
 
 <!--
-**t-ohtsuka89/t-ohtsuka89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haru1290/haru1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
