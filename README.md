@@ -8,8 +8,10 @@
 ## 国際会議
 - Takumi Ohtsuka, Tomoyuki Kajiwara, Chihiro Tanikawa, Yuujin Shimizu, Hajime Nagahara, and Takashi Ninomiya. 2023. Automated Orthodontic Diagnosis from a Summary of Medical Findings. In Proceedings of the 5th Clinical Natural Language Processing Workshop, pages 156–160, Toronto, Canada. Association for Computational Linguistics. [[link](https://aclanthology.org/2023.clinicalnlp-1.21/)]
 
+<!--
 ## 開発
 - GPUser (https://github.com/EhimeNLP/gpuser)
+-->
 <!--
 **haru1290/haru1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
