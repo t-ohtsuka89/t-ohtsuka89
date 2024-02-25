@@ -10,7 +10,8 @@
 
 <!--
 ## 開発
-- GPUser (https://github.com/EhimeNLP/gpuser)
+- GPUser (frontend) (<https://github.com/EhimeNLP/gpuser-v3>)
+- GPUser (backend) (<https://github.com/EhimeNLP/gpuser-v3-backend>)
 -->
 <!--
 **haru1290/haru1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
